@@ -1,2 +1,3 @@
 let d = new Date();
-console.log("Date:", d);
+
+console.log("Date:", d.toLocaleDateString());
